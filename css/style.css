@@ -1,0 +1,27 @@
+body {
+    background-color:#AFD1D9;
+    font-size: 1.5em;
+}
+
+h1 {
+    text-align: center;
+    font-family: cursive;
+    border: solid black;
+}
+
+.welcome {
+    color:#32573A;
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+ul {
+    text-align: justify;
+    list-style-type: square;
+    padding-bottom: 24px;
+    border-bottom: double 8px #32573A;
+}
+
+li {
+    margin: 8px;
+}
